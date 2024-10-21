@@ -17,7 +17,7 @@ While this repository doesn't contain hands-on projects, it represents a project
 ## Structure
 
 Each section of the course is seperated into its own dir, i will update the tree as i complete those sections.
-
+```
 ├── README.md
 ├── advanced_identities_and_federation
 │   ├── Microsoft_AD.md
@@ -51,7 +51,7 @@ Each section of the course is seperated into its own dir, i will update the tree
     ├── local_zones.md
     ├── security_groups.md
     └── stateful_vs_stateless_firewalls.md
-
+```
 
 I'm following Adrian Cantrill's AWS Solutions Architect Professional course. You can find more information about the course [here](https://learn.cantrill.io/courses/).
 
